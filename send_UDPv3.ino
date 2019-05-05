@@ -8,7 +8,7 @@ DHT dht;
 
 unsigned int UDPPort = 5000;      // local port to listen on
 
-const char* ssid = "WIFI_GOSC";
+const char* ssid = "Nazwa WIFI";
 const char* password = "haslo";
 
 WiFiUDP Udp;
